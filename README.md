@@ -1,24 +1,8 @@
-# README
+# PAY JP API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 概要
+pay.jp APIを試すリポジトリ  
 
-Things you may want to cover:
+## こんな感じで課金処理が行われる  
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[![Image from Gyazo](https://i.gyazo.com/4b788610bb796b0d041e30ed78555daa.gif)](https://gyazo.com/4b788610bb796b0d041e30ed78555daa)
